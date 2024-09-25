@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sff
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Personaje
+  - Water
+  - UI
+  - Enemi
+  - solidObjectsLayer
+  - SC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Piso
+    uniqueID: 1118600503
+    locked: 0
+  - name: Paredes
+    uniqueID: 3708843955
+    locked: 0
+  - name: Objetos
+    uniqueID: 1253256195
+    locked: 0
+  - name: SC - Mosters
+    uniqueID: 1982245419
+    locked: 0
+  - name: Personajes
+    uniqueID: 989820351
+    locked: 0
+  - name: UI
+    uniqueID: 2645341259
+    locked: 0
+  - name: Pausa
+    uniqueID: 3294015155
+    locked: 0
